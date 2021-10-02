@@ -91,9 +91,15 @@ main h2 {
         width: 100%;
         margin: 0px;
       }
+      .re{
+        margin: 0px 0px 0px 25px;
+      }
       .history-image-text{
         display: block;
-        margin: 0px 0px 0px 25px;
+        margin: 0px 0px 0px 35px;
+      }
+      .history-text{
+        padding: 0px 0px 0px 35px ;
       }
       .ima{
         width: 200px;
@@ -101,15 +107,15 @@ main h2 {
       }
       .elv{
         width: 170px;
-        margin: 0px 0px 0px 45px;
+        margin: 0px 0px 0px 85px;
       }
       .doc{
         width: 150px;
-        margin: 0px 0px 0px 45px;
+        margin: 0px 0px 0px 85px;
       }
       .form-register{
         width: 350px;
-        margin: 35px 5px 50px 5px;
+        margin: 35px 0px 50px 35px;
       }
     }
 }

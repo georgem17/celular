@@ -91,21 +91,25 @@ main h2 {
     .contenedor_padre .portada {
       width: 100%;
       margin: 0px; }
+    .contenedor_padre .re {
+      margin: 0px 0px 0px 25px; }
     .contenedor_padre .history-image-text {
       display: block;
-      margin: 0px 0px 0px 25px; }
+      margin: 0px 0px 0px 35px; }
+    .contenedor_padre .history-text {
+      padding: 0px 0px 0px 35px; }
     .contenedor_padre .ima {
       width: 200px;
       margin: 0px 0px 0px 65px; }
     .contenedor_padre .elv {
       width: 170px;
-      margin: 0px 0px 0px 45px; }
+      margin: 0px 0px 0px 85px; }
     .contenedor_padre .doc {
       width: 150px;
-      margin: 0px 0px 0px 45px; }
+      margin: 0px 0px 0px 85px; }
     .contenedor_padre .form-register {
       width: 350px;
-      margin: 35px 5px 50px 5px; } }
+      margin: 35px 0px 50px 35px; } }
 
 /*partials*/
 .nombre {
